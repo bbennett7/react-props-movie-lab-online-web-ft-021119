@@ -5,22 +5,22 @@
     "passes": 14,
     "pending": 0,
     "failures": 0,
-    "start": "2019-06-20T19:11:28.433Z",
-    "end": "2019-06-20T19:11:28.533Z",
-    "duration": 100
+    "start": "2019-06-20T19:14:16.900Z",
+    "end": "2019-06-20T19:14:16.964Z",
+    "duration": 64
   },
   "tests": [
     {
       "title": "renders at least one <MovieCard /> component",
       "fullTitle": "<MovieShowcase /> renders at least one <MovieCard /> component",
-      "duration": 3,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "renders 9 <MovieCard /> components",
       "fullTitle": "<MovieShowcase /> renders 9 <MovieCard /> components",
-      "duration": 8,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -83,7 +83,7 @@
     {
       "title": "correctly renders the title prop",
       "fullTitle": "<CardBack /> correctly renders the title prop",
-      "duration": 2,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -97,14 +97,14 @@
     {
       "title": "renders 'No Rating Found' in an <h4> if the IMDBRating prop is null",
       "fullTitle": "<CardBack /> renders 'No Rating Found' in an <h4> if the IMDBRating prop is null",
-      "duration": 7,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "renders an <img> tag if the IMDBRating prop is valid",
       "fullTitle": "<CardBack /> renders an <img> tag if the IMDBRating prop is valid",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
@@ -115,14 +115,14 @@
     {
       "title": "renders at least one <MovieCard /> component",
       "fullTitle": "<MovieShowcase /> renders at least one <MovieCard /> component",
-      "duration": 3,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "renders 9 <MovieCard /> components",
       "fullTitle": "<MovieShowcase /> renders 9 <MovieCard /> components",
-      "duration": 8,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -185,7 +185,7 @@
     {
       "title": "correctly renders the title prop",
       "fullTitle": "<CardBack /> correctly renders the title prop",
-      "duration": 2,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -199,14 +199,14 @@
     {
       "title": "renders 'No Rating Found' in an <h4> if the IMDBRating prop is null",
       "fullTitle": "<CardBack /> renders 'No Rating Found' in an <h4> if the IMDBRating prop is null",
-      "duration": 7,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "renders an <img> tag if the IMDBRating prop is valid",
       "fullTitle": "<CardBack /> renders an <img> tag if the IMDBRating prop is valid",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
